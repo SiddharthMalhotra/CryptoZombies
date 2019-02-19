@@ -1,2 +1,2 @@
 # CryptoZombies
-Solidity Contracts
+Solidity Contracts written for https://cryptozombies.io
